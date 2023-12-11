@@ -8,3 +8,8 @@ fruits:
 	apple
 	watermelon
 	pear
+
+vegtables:
+	tomate
+	spinac
+	
