@@ -5,6 +5,8 @@ pizza
 pasta 
 Pambazos
 tacos
+enchiladas
+
 
 fruits:
 	apple
