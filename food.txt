@@ -3,3 +3,8 @@ chilaquiles
 sushi
 pizza 
 pasta 
+
+fruits:
+	apple
+	watermelon
+	pear
