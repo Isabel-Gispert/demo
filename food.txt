@@ -4,6 +4,7 @@ sushi
 pizza 
 pasta 
 Pambazos
+enchiladas
 
 fruits:
 	apple
