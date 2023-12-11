@@ -2,5 +2,17 @@ hamburger
 chilaquiles 
 sushi
 pizza 
-pasta
+pasta 
 Pambazos
+
+fruits:
+	apple
+	watermelon
+	pear
+
+vegtables:
+	tomate
+	spinac
+	
+
+
